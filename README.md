@@ -1,7 +1,6 @@
 ## algaespellchecker
 Spellcheck taxa names against accepted name file
-
-Susie Theroux Feb 2018 (modified from vppatil/phytoDiv/phytoSpellMatch.r)
+(modified from vppatil/phytoDiv/phytoSpellMatch.r)
 
 
 
